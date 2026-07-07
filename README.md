@@ -7,6 +7,7 @@ It connects how **companies, products, and geographies** interact across the glo
 
 ### What SupplyGraph AI enables
 
+- Predictive **supply chain risk analysis** & multi-tier **impact propagation**
 - Automated **HTS / HS classification**
 - Intelligent **tariff & Chapter 99 analysis**
 - Multi-tier **supply network mapping**
