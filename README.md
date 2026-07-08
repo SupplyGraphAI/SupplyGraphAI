@@ -1,42 +1,43 @@
+# SupplyGraph AI
 
-<h2>SupplyGraph AI</h2>
+**SupplyGraph AI** builds agentic intelligence for global supply chains, trade compliance, and multi-tier risk — HTS classification, tariff analysis, due diligence, and supply graph analytics. All agents are accessible via **A2A**, **MCP**, and **Agent API**.
 
-An **enterprise-grade Agentic AI platform** for global trade intelligence, supply chain risk analysis, and regulatory compliance automation.
+This repository is the **GitHub organization profile**. Developer documentation, agent specs, and integration guides live in the main docs repository below.
 
-It connects how **companies, products, and geographies** interact across the global economy — delivering **explainable, auditable, and real-time intelligence** without requiring any customer-provided data.
+## Start Here
 
-### What SupplyGraph AI enables
+👉 **[SupplyGraphAI/supplygraph-ai](https://github.com/SupplyGraphAI/supplygraph-ai)** — canonical developer hub (endpoints, `agent_id` catalog, protocols, examples)
 
-- Predictive **supply chain risk analysis** & multi-tier **impact propagation**
-- Automated **HTS / HS classification**
-- Intelligent **tariff & Chapter 99 analysis**
-- Multi-tier **supply network mapping**
-- **Supplier concentration & geopolitical risk** detection
-- Continuous **due diligence & monitoring**
+| | |
+|---|---|
+| **Website** | [supplygraph.ai](https://www.supplygraph.ai) |
+| **Live docs** | [supplygraphai.github.io/supplygraph-ai/](https://supplygraphai.github.io/supplygraph-ai/) |
+| **Machine discovery (ARD)** | `https://supplygraph.ai/.well-known/ai-catalog.json` |
 
-### Explore the ecosystem
+## Repositories
 
-Agent Index Hub  
-https://github.com/SupplyGraphAI/supplygraph-ai/blob/main/agents/index.md
+| Repository | Purpose |
+|------------|---------|
+| [supplygraph-ai](https://github.com/SupplyGraphAI/supplygraph-ai) | Official documentation, A2A/MCP specs, agent library |
+| [supplygraphai_a2a_sdk](https://github.com/SupplyGraphAI/supplygraphai_a2a_sdk) | Optional Python SDK for Agent API (REST) only |
 
-Main Repository  
-https://github.com/SupplyGraphAI/supplygraph-ai
+**Recommended SDKs for standard integration:** [a2a-sdk](https://pypi.org/project/a2a-sdk/) (A2A) · [mcp](https://pypi.org/project/mcp/) (MCP)
 
-Official Website  
-https://www.supplygraph.ai
+## Documentation Quick Links
 
-Developer SDK  
-https://github.com/SupplyGraphAI/supplygraphai_a2a_sdk
+| Topic | Link |
+|-------|------|
+| Getting Started | [getting-started.md](https://github.com/SupplyGraphAI/supplygraph-ai/blob/main/docs/getting-started.md) |
+| Integration Guide | [integration.md](https://github.com/SupplyGraphAI/supplygraph-ai/blob/main/docs/a2a_mcp/integration.md) |
+| Agent Library & Demos | [agents/index.md](https://github.com/SupplyGraphAI/supplygraph-ai/blob/main/docs/agents/index.md) |
+| Quick Examples | [A2A / MCP](https://github.com/SupplyGraphAI/supplygraph-ai/blob/main/docs/a2a_mcp/quick_example.md) · [Agent API](https://github.com/SupplyGraphAI/supplygraph-ai/blob/main/docs/agent-api/quick_example.md) |
 
-### Built for
+## Built For
 
-- Global trade & compliance teams
-- Procurement & supply chain leaders
-- Risk & intelligence analysts
-- AI engineers & data scientists
-- Researchers and policy institutions
+Global trade & compliance teams · Procurement & supply chain leaders · Risk & intelligence analysts · AI engineers · Researchers and policy institutions
 
-If you're working with complex global systems and need **clarity, control, and foresight** — you're in the right place.
+## Contact
 
-© 2025 SupplyGraph AI
+info@supplygraph.ai
 
+© 2025–2026 SupplyGraph AI
